@@ -1,5 +1,6 @@
 body {
   background: radial-gradient(white,lightblue, rgba(0, 0, 255, 0.693)); 
+  font-family: sans-serif;
 }
 
 img {
@@ -10,3 +11,14 @@ img {
   border-radius: 35%;
   display: block;
 } 
+
+.my-class {
+  border: 3px;
+  padding: 5px;
+  margin: auto;
+  box-sizing:border-box;
+}
+
+.header-1 {
+  text-align: center;
+}
