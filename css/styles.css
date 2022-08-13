@@ -1,0 +1,12 @@
+body {
+  background: radial-gradient(white,lightblue, rgba(0, 0, 255, 0.693)); 
+}
+
+img {
+  filter:drop-shadow(5px 5px 12px rgba(255, 192, 203, 0.952)) saturate(200%);
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 35%;
+  display: block;
+} 
