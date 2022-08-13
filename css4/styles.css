@@ -1,0 +1,31 @@
+body{
+  background-image:radial-gradient(white,lightgreen, green);
+  font-family: sans-serif;
+}
+
+.my-class {
+  width: 50%;
+  margin: auto;
+  margin-bottom: 15px;
+  border: 2px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.my-class1 {
+  width: 50%;
+  margin: auto;
+  margin-bottom: 15px;
+  border: 2px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.centered-image {
+  border-radius: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display:block;
+}
