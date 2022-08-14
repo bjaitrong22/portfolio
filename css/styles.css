@@ -5,20 +5,44 @@ body {
 
 img {
   filter:drop-shadow(5px 5px 12px rgba(255, 192, 203, 0.952)) saturate(200%);
-  width: 50%;
+  width: 40%;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 3em;
+  margin-bottom: 3em;
   border-radius: 35%;
   display: block;
+  float: left;
 } 
 
 .my-class {
-  border: 3px;
-  padding: 5px;
   margin: auto;
+  border: 1em;
+  padding: 1em;
+  font-weight: 100;
   box-sizing:border-box;
+}
+
+.project1{
+  margin-top: .5em;
+  border: 1em;
+  padding: 1em;
+  box-sizing: border-box;
+}
+
+span {
+  color: red;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+.Project2{
+  margin-top: .5;
+  border: 1em;
+  padding: 1em;
+  box-sizing: border-box;
 }
 
 .header-1 {
   text-align: center;
+  font-weight: 100;
 }
