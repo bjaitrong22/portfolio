@@ -1,5 +1,5 @@
 # Portfolio
-By Bai Jaitrong
+By Bai Jaitrong:  
 My portfolio webpage.  
 # Technologies Used
   * HTML
